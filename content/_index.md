@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        TAKLPAT
         Research Group
       image:
         filename: welcome.jpg
@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: TAKLPATgrouppicture.jpg
           filters:
             brightness: 1
           parallax: false

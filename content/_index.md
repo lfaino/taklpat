@@ -11,7 +11,7 @@ sections:
         TAKLPAT
         Research Group
       image:
-        filename: welcome.jpg
+        filename: taklpatScheme.jpg
       text: |
         <br>
         
